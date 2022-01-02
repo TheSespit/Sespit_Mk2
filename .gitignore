@@ -1,10 +1,10 @@
-assets/
-journeymap/
-logs/
-patchoulibooks/
-saves/
-screenshots/
-snapshots-server/
+assets
+journeymap
+logs
+patchoulibooks
+saves
+screenshots
+snapshots-server
 usercache.json
 usernamecache.json
 options.txt

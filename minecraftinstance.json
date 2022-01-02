@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2022-01-02T22:51:53.5712136Z",
-  "playedCount": 9,
+  "lastPlayed": "2022-01-02T23:39:09.0033778Z",
+  "playedCount": 10,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2378,6 +2378,91 @@
       "installedTargets": []
     },
     {
+      "addonID": 262823,
+      "gameInstanceID": "9690552c-8f1c-4b04-b807-e98e2bb74694",
+      "installedFile": {
+        "id": 2619249,
+        "displayName": "TombManyGraves2-1.12-4.2.0",
+        "fileName": "TombManyGraves-1.12-4.2.0.jar",
+        "fileDate": "2018-09-21T00:37:13.533Z",
+        "fileLength": 150657,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2619/249/TombManyGraves-1.12-4.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2977590635,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3845190189,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 783008279,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3064791493,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3719101601,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1449623,
+        "projectId": 262823,
+        "packageFingerprintId": 265976297,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 1668386,
+        "gameVersionId": 6756,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "TombManyGraves-1.12-4.2.0.jar"
+      },
+      "dateInstalled": "2022-01-02T23:37:20.0154906Z",
+      "dateUpdated": "2022-01-02T23:37:20.0244925Z",
+      "dateLastUpdateAttempted": "2022-01-02T23:37:20.0244925Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 223094,
       "gameInstanceID": "9690552c-8f1c-4b04-b807-e98e2bb74694",
       "installedFile": {
@@ -3965,6 +4050,85 @@
       "dateInstalled": "2022-01-02T20:59:44.8967703Z",
       "dateUpdated": "2022-01-02T20:59:44.9007698Z",
       "dateLastUpdateAttempted": "2022-01-02T20:59:44.9007698Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 256717,
+      "gameInstanceID": "9690552c-8f1c-4b04-b807-e98e2bb74694",
+      "installedFile": {
+        "id": 2666198,
+        "displayName": "Clumps-3.1.2",
+        "fileName": "Clumps-3.1.2.jar",
+        "fileDate": "2019-01-28T22:56:57.45Z",
+        "fileLength": 13792,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2666/198/Clumps-3.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1241217930,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1263363311,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2536839976,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1290884162,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1505816,
+        "projectId": 256717,
+        "packageFingerprintId": 289935575,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1742943,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Clumps-3.1.2.jar"
+      },
+      "dateInstalled": "2022-01-02T23:37:59.7679381Z",
+      "dateUpdated": "2022-01-02T23:37:59.7709398Z",
+      "dateLastUpdateAttempted": "2022-01-02T23:37:59.7709398Z",
       "status": 4,
       "installSource": 0,
       "preferenceAutoInstallUpdates": null,

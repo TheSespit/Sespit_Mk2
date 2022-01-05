@@ -8,3 +8,5 @@ snapshots-server
 usercache.json
 usernamecache.json
 options.txt
+minecraftinstance.json
+.curseclient
